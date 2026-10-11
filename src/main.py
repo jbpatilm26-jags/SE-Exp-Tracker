@@ -5,7 +5,7 @@ Command-line interface for the Personal Expense Tracker.
 Calls backend functions from expense_tracker.py.
 """
 
-import sys
+import sys 
 import os
 
 # Allow running as  python src/main.py  from the project root
